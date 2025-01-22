@@ -3,3 +3,7 @@ I added more to the top.
 
 Here is a second file.
 It's also a great file!
+
+I added more text to the bottom.
+
+Added to the bottom.
