@@ -1,3 +1,5 @@
+Adding a merge message at the top.
+
 This is my third text.
 This also seems very interesting!
 
