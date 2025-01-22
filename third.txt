@@ -3,3 +3,5 @@ This also seems very interesting!
 
 I added more to the bottom.
 This is very fun to write.
+
+There is a merged message in the bottom.
